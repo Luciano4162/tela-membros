@@ -22,7 +22,7 @@ $svg_suporte = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0
 <aside class="sidebar">
     <div class="logo-area">
         <div class="logo-circle">
-            <img src="https://ik.imagekit.io/kyjz2djk3p/logomembros?updatedAt=1760033917629" alt="Logo da Marca"> </div>
+            <img src="https://ik.imagekit.io/3sgol90nn/IMG-20251202-WA0019.jpg" alt="Logo da Marca"> </div>
         <div class="logo-text">Área de Membros</div>
     </div>
     <div class="divider"></div>
